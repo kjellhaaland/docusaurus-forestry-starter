@@ -14,4 +14,9 @@ Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et 
 
 Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
 
+<!-- iframe.snippet -->
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+</div>
+
     <iframe frameborder="0" style="width:100%;height:523px;" src="https://app.diagrams.net/?lightbox=1&highlight=000000&layers=1&nav=1&title=FlytTilbud.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1ZePgJoto5I2Z1gaDkA0qcpECiHVaQD-J%26export%3Ddownload"></iframe>
